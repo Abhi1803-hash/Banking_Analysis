@@ -74,4 +74,34 @@ A centralized **Power BI dashboard** that:
 
 ---
 
+## ▶️ How to Use
+1. Clone or download the repository  
+2. Open `Banking Dashboard.pbix` in **Power BI Desktop**  
+3. Refresh the data if required  
+4. Explore insights using filters and visuals  
+
+---
+
+## 🔮 Future Enhancements
+- Customer churn analysis
+- Predictive balance forecasting
+- SQL database integration
+- Real-time data dashboards
+
+---
+
+## 👨‍💻 Author
+**Abhishek Singh Tomar**  
+Aspiring **Data Analyst / Data Scientist**
+
+**Skills:** Power BI | SQL | Python | Data Analytics | Machine Learning  
+
+---
+
+## ⭐ Feedback
+If you found this project helpful, please **star ⭐ the repository**.  
+Open to feedback, collaboration, and opportunities.
+
+
+
 ## 📁 Project Structure
